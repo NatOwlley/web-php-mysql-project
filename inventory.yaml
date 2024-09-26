@@ -1,0 +1,3 @@
+web-php:
+  hosts:
+    ansiblevm-1:

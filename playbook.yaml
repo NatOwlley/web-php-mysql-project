@@ -1,0 +1,5 @@
+- name: Deploy app
+  hosts: web-php
+  become: true
+  roles:
+    - deploy-web-php

@@ -1,0 +1,4 @@
+galaxy_info:
+  author: Natalia Nepomilueva
+  description: Запуск простого web-приложения при помощи docker-compose
+  min_ansible_version: 2.9

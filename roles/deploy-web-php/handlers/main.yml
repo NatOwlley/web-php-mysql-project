@@ -1,0 +1,6 @@
+---
+# handlers file for deploy-web-php
+- name: Restart nginx
+  community.docker.docker_container:
+    name: nginx
+    state: restarted
